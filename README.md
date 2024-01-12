@@ -2,7 +2,7 @@
 Hi there! 👋 I'm Gokul Krishna<br>Passionate Software Developer | MERN Stack Enthusiast<br><br>🚀 About Me:<br><br>💻 Experienced in developing major and minor applications using the MERN (MongoDB, Express.js, React.js, Node.js) stack.<br>🌐 Proficient in technologies such as React.js, Redux, Node.js, and Express.js.<br>🛢️ Worked with databases like MongoDB to design robust and scalable backend systems.<br>📈 Excited about building efficient and user-friendly web applications.<br><br>🔧 Tech Stack:<br><br>Frontend: React Js, Redux, Next Js<br>Backend: Node Js, Express Js<br>Databases: MongoDB<br><br>
 <br>🌱 Always eager to learn and explore new technologies. Let's build something amazing together!<br><br>
 ## 📫 Reach Out:
-**Portfolio**: [gokulkrishna.site](https://gokulkrishna.site)
+**Portfolio**: **[gokulkrishna.site](https://gokulkrishna.site)**
 
 
 ## 🌐 Socials:
